@@ -1,5 +1,6 @@
 # Kimia_Farma_Big_Data_Analytics
 
+```sql
 ---datamart---
 CREATE TABLE kimia_farma.datamart_kf AS
 SELECT
